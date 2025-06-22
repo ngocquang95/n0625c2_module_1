@@ -15,7 +15,7 @@ public class Main6 {
 
         int currentYear = Year.now().getValue();
         System.out.println("Tuổi của bạn là: " + (currentYear - yearOfBirth));
-        // how to ... in java
-        // how to get current year in java
+        // How to ... in java
+        // How to get current year in java
     }
 }
